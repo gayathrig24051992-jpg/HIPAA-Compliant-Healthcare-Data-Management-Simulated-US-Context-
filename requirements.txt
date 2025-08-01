@@ -1,0 +1,7 @@
+streamlit
+faker
+numpy
+pandas
+matplotlib
+seaborn
+cryptography
